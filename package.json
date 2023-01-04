@@ -19,7 +19,7 @@
     "react-encrypt": "^1.0.1",
     "react-redux": "^6.0.1",
     "react-router-dom": "^5.0.0",
-    "react-scripts": "2.1.8",
+    "react-scripts": "5.0.1",
     "react-sortable-hoc": "^1.9.1",
     "react-virtualized": "^9.21.0",
     "recompose": "^0.30.0",
